@@ -38,7 +38,6 @@ Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constante
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 <br />
 <br />
-![Image](https://github.com/user-attachments/assets/3545c988-fcda-43c1-8427-f5be9561b8b7)
 
 ### 📊Estatísticas
 <img align="left" 
