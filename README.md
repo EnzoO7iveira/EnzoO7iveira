@@ -54,7 +54,7 @@ Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constante
     style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxensolutions&theme=tokyonight&locale=pt-br&layout=compact&custom_tittle=Tecnologias" />
 
-    ![Snake animation]{https://github.com/uxensolutions/uxensolutions/blob/output/github-contribution-grid-snake-svg}
+    ![Snake animation]{https://github.com/enzoo7iveira/enzoo7iveira/blob/output/github-contribution-grid-snake-svg}
 
 
 
