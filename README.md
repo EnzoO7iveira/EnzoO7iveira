@@ -45,7 +45,7 @@ Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constante
     alt="GitHub Stats"
     height="200" 
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=uxensolutions&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=enzoo7iveira&show_icons=true&theme=tokyonight&locale=pt-br" 
     />
 
 <img 
@@ -53,7 +53,7 @@ Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constante
     alt="GitHub Stats" 
     height="200"
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxensolutions&theme=tokyonight&locale=pt-br&layout=compact&custom_tittle=Tecnologias" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoo7iveira&theme=tokyonight&locale=pt-br&layout=compact&custom_tittle=Tecnologias" />
 
 
 
