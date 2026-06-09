@@ -4,7 +4,7 @@
 
  Atualmente com a criação da empresa Uxen Solutions, sou apaixonado por tecnologia, inovação e resolução de problemas através da programação. Atualmente curso **Ciência da Computação** e estou focado em desenvolver soluções modernas com **HTML, CSS, JavaScript e Java**, aplicando boas práticas de desenvolvimento web e lógica de programação.
 
-Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constantemente como desenvolvedor compartilhando meu conhecimento e projetos através do meu Linkedin [Enzo Oliveira](www.linkedin.com/in/enzo-oliveira-a3997826a)
+Gosto de aprender coisas novas, enfrentar desafios técnicos e evoluir constantemente como desenvolvedor compartilhando meu conhecimento e projetos através do meu Linkedin [Enzo Oliveira](https://www.linkedin.com/in/enzo-oliveira-a3997826a)
 
 ![Image](https://github.com/user-attachments/assets/3545c988-fcda-43c1-8427-f5be9561b8b7)
 
